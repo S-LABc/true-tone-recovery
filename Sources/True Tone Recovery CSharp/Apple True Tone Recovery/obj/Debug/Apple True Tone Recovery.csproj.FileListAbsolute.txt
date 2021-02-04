@@ -1,0 +1,43 @@
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.exe.config
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.exe
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.pdb
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\bin\Debug\MetroFramework.Design.dll
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\bin\Debug\MetroFramework.dll
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\bin\Debug\MetroFramework.Fonts.dll
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csprojAssemblyReference.cache
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.Properties.Resources.resources
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.GenerateResource.cache
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.CopyComplete
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.exe
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.pdb
+D:\Проекты\Apple Service Tools\C Sharp Client\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.TrueToneRecovery.resources
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.exe.config
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.exe
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.pdb
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\bin\Debug\MetroFramework.Design.dll
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\bin\Debug\MetroFramework.dll
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\bin\Debug\MetroFramework.Fonts.dll
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csprojAssemblyReference.cache
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.TrueToneRecovery.resources
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.Properties.Resources.resources
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.GenerateResource.cache
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.CopyComplete
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.exe
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.pdb
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.Properties.Messages.resources
+E:\Проекты\Apple Service Tools\C# Client\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.exe.config
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.exe
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\bin\Debug\Apple True Tone Recovery.pdb
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.Properties.Messages.resources
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.TrueToneRecovery.resources
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple_True_Tone_Recovery.Properties.Resources.resources
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.csproj.CopyComplete
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.exe
+C:\Users\user\Desktop\Apple True Tone Recovery\Apple True Tone Recovery\obj\Debug\Apple True Tone Recovery.pdb

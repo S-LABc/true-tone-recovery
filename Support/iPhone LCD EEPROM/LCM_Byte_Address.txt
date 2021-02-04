@@ -1,0 +1,13 @@
+MtSN (dec)
+iPhone 8-8P           14903-14946
+iPhone XR             15933-15976 16128-16171
+iPhone X-XS-XSMAX     4620-4663 9068-9111 15660-15703  ['+' 4664 9112]
+
+GaussSN (dec)
+iPhone 8-8P           15104-15129
+iPhone XR             15756-15781
+iPhone X              15756-15781
+iPhone XS-XSMAX       15756-15781
+
+LCMSN (dec)
+iPhone 8-8P           0-56[123] 1851-2867[1] 3694-3710[1] 4608-4629[4]  ['+' 2868]
