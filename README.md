@@ -3,7 +3,7 @@
 
 # Назначение файлов
 
-* Sources - Исхожники для Arduino и C#
+* Sources - Исходники для Arduino и C#
 * Support - Вспомогательные файлы
 * Apple True Tone Recovery - Готовая программа на .NET
 
